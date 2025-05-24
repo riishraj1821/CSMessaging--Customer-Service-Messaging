@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # CSMessaging--Customer-Service-Messaging
-=======
+
 ## Introduction
 
 Welcome to the Customer Service Messaging Application!
@@ -105,4 +104,3 @@ DATABASE_URL=your_mongo_db_url
 ```bash
 npm start
 ```
->>>>>>> 1e194f0 (feat CSmassaging-Project)
